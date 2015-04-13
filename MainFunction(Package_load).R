@@ -1,3 +1,4 @@
+### source code to loading
 source("D://R_code//R_exe//Setting//Setting_Packages.r")
 suppressWarnings(source("D://R_code//R_exe//Setting//Setting_Version_phone.r"))
 source("D://R_code//R_exe//Setting//Setting_KeyWord.r")
