@@ -7,6 +7,6 @@ data mining method:
   3. keyword analysis
 
 database:
-  1. use mongodb
+  use mongodb
 
 
